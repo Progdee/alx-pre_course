@@ -1,2 +1,1 @@
-My first readme
-I love tech
+My first readme. I am a software engineer
